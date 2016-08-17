@@ -12,4 +12,4 @@ exclude:
 
 # Dependencies
 markdown:    kramdown
-highlighter: pygments
+highlighter: rough
