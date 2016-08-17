@@ -7,3 +7,9 @@ exclude:
   - "CNAME"
   - "Gemfile"
   - "Gemfile.lock"
+
+
+
+# Dependencies
+markdown:    kramdown
+highlighter: pygments
